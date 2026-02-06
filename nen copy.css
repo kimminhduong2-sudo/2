@@ -5,9 +5,11 @@ body {
 }
 
 #nenweb {
-    width: 1200px;
+    max-width: 1200px;
+    width: 100%;
+    padding: 1 15px;
     margin: auto;
-    background-color: rgb(255, 240, 189);
+    background-color: rgb(255, 239, 185);
 }
 
 #h1 {
